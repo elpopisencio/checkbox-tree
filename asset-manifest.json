@@ -1,15 +1,16 @@
 {
   "files": {
     "main.css": "/checkbox-tree/static/css/main.34de6062.chunk.css",
-    "main.js": "/checkbox-tree/static/js/main.ff364d32.chunk.js",
-    "main.js.map": "/checkbox-tree/static/js/main.ff364d32.chunk.js.map",
+    "main.js": "/checkbox-tree/static/js/main.6e540491.chunk.js",
+    "main.js.map": "/checkbox-tree/static/js/main.6e540491.chunk.js.map",
     "runtime~main.js": "/checkbox-tree/static/js/runtime~main.d5b99a29.js",
     "runtime~main.js.map": "/checkbox-tree/static/js/runtime~main.d5b99a29.js.map",
-    "static/js/2.0b52828e.chunk.js": "/checkbox-tree/static/js/2.0b52828e.chunk.js",
-    "static/js/2.0b52828e.chunk.js.map": "/checkbox-tree/static/js/2.0b52828e.chunk.js.map",
+    "static/js/2.b8bd6c4f.chunk.js": "/checkbox-tree/static/js/2.b8bd6c4f.chunk.js",
+    "static/js/2.b8bd6c4f.chunk.js.map": "/checkbox-tree/static/js/2.b8bd6c4f.chunk.js.map",
     "index.html": "/checkbox-tree/index.html",
-    "precache-manifest.9198e887622391bfda2dd90c87520c7e.js": "/checkbox-tree/precache-manifest.9198e887622391bfda2dd90c87520c7e.js",
+    "precache-manifest.d1f9e3c841591a6f8c8b00b335986a33.js": "/checkbox-tree/precache-manifest.d1f9e3c841591a6f8c8b00b335986a33.js",
     "service-worker.js": "/checkbox-tree/service-worker.js",
-    "static/css/main.34de6062.chunk.css.map": "/checkbox-tree/static/css/main.34de6062.chunk.css.map"
+    "static/css/main.34de6062.chunk.css.map": "/checkbox-tree/static/css/main.34de6062.chunk.css.map",
+    "static/media/tree.svg": "/checkbox-tree/static/media/tree.9628a886.svg"
   }
 }
